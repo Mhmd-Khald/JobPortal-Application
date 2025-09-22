@@ -1,0 +1,15 @@
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Services\bin\Release\net5.0\Job.Services.deps.json
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Services\bin\Release\net5.0\Job.Services.dll
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Services\bin\Release\net5.0\Job.Services.pdb
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Services\bin\Release\net5.0\Job.Core.dll
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Services\bin\Release\net5.0\Job.Core.pdb
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Services\obj\Release\net5.0\Job.Services.csproj.AssemblyReference.cache
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Services\obj\Release\net5.0\Job.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Services\obj\Release\net5.0\Job.Services.AssemblyInfoInputs.cache
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Services\obj\Release\net5.0\Job.Services.AssemblyInfo.cs
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Services\obj\Release\net5.0\Job.Services.csproj.CoreCompileInputs.cache
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Services\obj\Release\net5.0\Job.Services.csproj.CopyComplete
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Services\obj\Release\net5.0\Job.Services.dll
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Services\obj\Release\net5.0\refint\Job.Services.dll
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Services\obj\Release\net5.0\Job.Services.pdb
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Services\obj\Release\net5.0\ref\Job.Services.dll

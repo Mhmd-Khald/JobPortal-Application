@@ -1,0 +1,12 @@
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Core\bin\Release\net5.0\Job.Core.deps.json
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Core\bin\Release\net5.0\Job.Core.dll
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Core\bin\Release\net5.0\Job.Core.pdb
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Core\obj\Release\net5.0\Job.Core.csproj.AssemblyReference.cache
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Core\obj\Release\net5.0\Job.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Core\obj\Release\net5.0\Job.Core.AssemblyInfoInputs.cache
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Core\obj\Release\net5.0\Job.Core.AssemblyInfo.cs
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Core\obj\Release\net5.0\Job.Core.csproj.CoreCompileInputs.cache
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Core\obj\Release\net5.0\Job.Core.dll
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Core\obj\Release\net5.0\refint\Job.Core.dll
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Core\obj\Release\net5.0\Job.Core.pdb
+C:\Users\profssional\Desktop\ThirdTry\Project.Apis\Job.Core\obj\Release\net5.0\ref\Job.Core.dll
